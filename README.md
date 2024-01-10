@@ -12,6 +12,7 @@ Wi-Crypt is a Python-based encryption/decryption software that provides two opti
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/sirajudeenkb/Wi-Crypt.git
+    cd Wi-Crypt
     ```
 
 2. **Install the required dependencies:**
